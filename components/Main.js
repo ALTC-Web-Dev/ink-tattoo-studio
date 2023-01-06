@@ -21,9 +21,9 @@ export default function Main() {
             </Link>
           </div>
           <div className="flex justify-center items-center gap-x-8 italic pt-16 opacity-75 lg:text-lg md:text-md text-[12px] text-center">
-            <p>"Award winning designs <br /> with accuracy"</p>
-            <p>"Clean & Professional"</p>
-            <p>"Ink-ing since 2002"</p>
+            <p>&#34;Award winning designs <br /> with accuracy&#34;</p>
+            <p>&#34;Clean & Professional&#34;</p>
+            <p>&#34;Ink-ing since 2002&#34;</p>
           </div>
         </div>
       </main>

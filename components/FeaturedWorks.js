@@ -6,7 +6,7 @@ export default function FeaturedWorks() {
     <section className="min-w-full lg:px-24 md:16 px-4 py-10" id="featured">
       <div className="text-center italic gap-y-6 py-8">
         <h1 className="text-4xl mb-2">Featured Works</h1>
-        <p className="">“Various works from various artist from the studio”</p>
+        <p className="">&#34;Various works from various artist from the studio&#34;</p>
       </div>
 
       <div className="flex justify-center items-center">
