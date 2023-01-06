@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <section className="min-w-full lg:px-24 md:16 px-4 py-10">
       <div className="text-center italic gap-y-6 py-16">
-        <h1 className="text-4xl mb-2">Let's Design Your First Tattoo</h1>
+        <h1 className="text-4xl mb-2">Let&#39;s Design Your First Tattoo</h1>
         <p className="">“There are no bad designs in the world, just bad artist.”</p>
         <hr className="w-[250px] mx-auto my-4" />
       </div>
