@@ -14,7 +14,7 @@ export default function Main() {
               alt="Ink Tattoo Studio"
               width={452}
               height={360}
-              src="/logo.png"
+              src="/logo.webp"
             />
             <Link href="/#featured">
               <ArrowDownCircle className="animate-bounce w-10 h-10"  />
